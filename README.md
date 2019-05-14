@@ -1,2 +1,2 @@
 # ikea
-The ikea model of feedback regulated galaxy formation
+The ikea model of feedback-regulated galaxy formation
